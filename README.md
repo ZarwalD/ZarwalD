@@ -1,5 +1,7 @@
-ZarwalD is my name, you know.
-I'm learning Java right now, you know.
+<ul>
+<li>ZarwalD is my name, you know.</li>
+<li>I'm learning Java right now, you know.</li>
+</ul>
 That's all kust know about me.
 
 <!---
